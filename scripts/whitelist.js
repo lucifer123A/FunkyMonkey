@@ -1,0 +1,4 @@
+module.exports = [
+    '0x24CC25fD703C03608489dFc1D974CCb9EB5BA6a5', //account 1
+    '0x79F8aC02AfD83E41004bC43EED741197dc66A205'  //account 2
+]
